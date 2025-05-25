@@ -26,7 +26,7 @@ export default function RootLayout({
     <html lang="en">
       <link
         rel="shortcut icon"
-        href="https://favemoji.vercel.app/🌈"
+        href="https://favemoji.vercel.app/🐱"
         type="image/x-icon"
       />
       <body
